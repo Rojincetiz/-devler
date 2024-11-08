@@ -1,0 +1,14 @@
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\bin\Debug\net8.0\hafta3.exe
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\bin\Debug\net8.0\hafta3.deps.json
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\bin\Debug\net8.0\hafta3.runtimeconfig.json
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\bin\Debug\net8.0\hafta3.dll
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\bin\Debug\net8.0\hafta3.pdb
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.AssemblyInfoInputs.cache
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.AssemblyInfo.cs
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.csproj.CoreCompileInputs.cache
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.dll
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\refint\hafta3.dll
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.pdb
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\hafta3.genruntimeconfig.cache
+C:\Users\rojin\OneDrive\Belgeler\ödevler\hafta3\obj\Debug\net8.0\ref\hafta3.dll
